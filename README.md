@@ -1,8 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<a href="https://www.tistory.com/limmyou" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/limmyou" target="_blank"><img src="https://img.shields.io/badge/limmyou-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="heelim0624@naver.com" target="_blank"><img src="https://img.shields.io/badge/heelim0624@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limmyou)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi there! I'm data analyst using python🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limmyou)](https://github.com/anuraghazra/github-readme-stats)
+#### 💪 Skills
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limmyou&hide=contribs,prs&show_icons=true&theme=테마)
+**Platforms & Languages**<br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
