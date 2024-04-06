@@ -1,9 +1,9 @@
 ## Heerim Kang 🤗
 
 
-<a href="https://www.heerimkang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://heerimkang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/limmyou" target="_blank"><img src="https://img.shields.io/badge/limmyou-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:heelim0624@gmail.com"><img src="https://img.shields.io/badge/heelim0624@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white@link=mailto:heelim0624@gmail.com"/></a>
+<a href="mailto:heelim0624@gmail.com" ><img src="https://img.shields.io/badge/heelim0624@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heelim0624@gmail.com"/></a>
 
 ### Who Am I
 I'm a junior **Data Analyst**. I love to analyze many interest things✨ 
