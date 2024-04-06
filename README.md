@@ -9,12 +9,12 @@
 I'm a junior **Data Analyst**. I love to analyze many interest things✨ 
 * 🎓 I majored in Medical IT<br>
 * 👀 I'm currently looking for a job<br>
-* 🌱 I'm learning Python and Data Analysis<br>
-* 📫 How to reach me : heelim0624@naver.com
+* 🌱 I'm learning Python and SQL<br>
+* 📫 How to reach me : heelim0624@gmail.com
  
 ### Experience
-* 🎓 Eulji University, Medical IT (2019.03~2024.02)
 * 🌍 HAN University, Life Sciences (2019.08~2020.04)
+* 🎓 Eulji University, Medical IT (2019.03~2024.02)
 
 ### Skills
 
