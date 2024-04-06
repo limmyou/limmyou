@@ -1,4 +1,4 @@
-## Heerim Kang 🤗
+## Heerim Kang 👩‍💻
 
 
 <a href="https://heerimkang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
