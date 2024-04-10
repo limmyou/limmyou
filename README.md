@@ -8,8 +8,8 @@
 ### Who Am I
 I'm a junior **Data Analyst**. I love to analyze many interest things✨ 
 * 🎓 I majored in Medical IT<br>
-* 👀 I'm currently looking for a job<br>
 * 🌱 I'm learning Python and SQL<br>
+* ✏️ I love taking on challenges and learning new things<br>
 * 📫 How to reach me : heelim0624@gmail.com
  
 ### Experience
