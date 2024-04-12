@@ -13,7 +13,7 @@ I'm a junior **Data Analyst**. I love to analyze many interest things✨
 * 📫 How to reach me : heelim0624@gmail.com
  
 ### Experience
-* 🌍 HAN University, Life Sciences (2019.08~2020.04)
+* 🌍 HAN University, Life Sciences (2019.09~2020.04)
 * 🎓 Eulji University, Medical IT (2019.03~2024.02)
 
 ### Skills
