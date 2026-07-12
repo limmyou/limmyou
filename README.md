@@ -1,33 +1,60 @@
-## Heerim Kang 👩‍💻
+<h1 align="center">Heerim Kang 👩🏻‍💻</h1>
+
+<p align="center">
+  데이터가 쌓이는 곳에서, 쓸 수 있는 데이터로 만드는 사람
+</p>
+
+<br>
+<br>
 
 
-<a href="https://www.instagram.com/limmyou" target="_blank"><img src="https://img.shields.io/badge/limmyou-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:heelim0624@gmail.com" ><img src="https://img.shields.io/badge/heelim0624@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heelim0624@gmail.com"/></a>
+## Who Am I
+Junior **DB Administrator** with experience in MariaDB database operation and Python-based data processing.
+- 🙋🏻‍♀️ Name: Heerim Kang
+- 📝 Portfolio: [포트폴리오](https://github.com/limmyou/Portfolio)
+- 🎓 Majored in Medical IT
+- 🗄️ Experienced in MariaDB table design, data storage, and DB operation
+- 🖥️ Built and deployed AI image analysis web services on AWS EC2
+- 📊 Interested in making accumulated data reliable and usable
 
-### Who Am I
-I'm a junior **Data Analyst**. I love to analyze many interest things✨ 
-* 🎓 I majored in Medical IT<br>
-* 🌱 I'm learning Python and SQL<br>
-* ✏️ I love taking on challenges and learning new things<br>
-* 📫 How to reach me : heelim0624@gmail.com
- 
-### Experience
-* 🌍 HAN University, Life Sciences (2019.09~2020.04)
-* 🎓 Eulji University, Medical IT (2019.03~2024.02)
+<br>
 
-### Skills
+## Career
+
+**2025.05 – 재직중 | ㈜코드오브네이처**  
+AI 모델 개발·DB 운영·웹 서비스 구현·서버 운영 수행
+
+**2024.10 – 2024.12 | ㈜에이더**  
+시장조사 및 고객 데이터 수집·분석을 통한 신규 제품 기획 의사결정 지원
+
+**2023.09 – 2024.03 | 엔코아 플레이데이터**  
+SQL·Python·Linux·Hadoop 기반 데이터 처리 및 파이프라인 구축 실습
+
+<br>
+
+## Skills
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**DB**<br>
+![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Infra**<br>
+![AWS EC2](https://img.shields.io/badge/AMAZONAWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 
 **Tools**<br>
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"><br>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+![DBeaver](https://img.shields.io/badge/DBEAVER-372923?style=flat-square&logo=dbeaver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+
