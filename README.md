@@ -1,34 +1,25 @@
-<h1 align="center">Heerim Kang 👩🏻‍💻</h1>
 
-<p align="center">
-  데이터가 쌓이는 곳에서, 쓸 수 있는 데이터로 만드는 사람
-</p>
+## About ME
 
-<br>
-<br>
-
-
-## Who Am I
-Junior **DB Administrator** with experience in MariaDB database operation and Python-based data processing.
-- 🙋🏻‍♀️ Name: Heerim Kang
-- 📝 Portfolio: [포트폴리오](https://github.com/limmyou/Portfolio)
-- 🎓 Majored in Medical IT
-- 🗄️ Experienced in MariaDB table design, data storage, and DB operation
-- 🖥️ Built and deployed AI image analysis web services on AWS EC2
-- 📊 Interested in making accumulated data reliable and usable
+- 🙋🏻‍♀️ Heerim Kang
+- 🗄️ Database Administration
+- ⚒️ Data Analysis & Processing
+- 🤖 AI Model Development
+- 📁 Portfolio: [포트폴리오](https://github.com/limmyou/Portfolio)
+- ✉️ Email: [heelim0624@gmail.com](mailto:heelim0624@gmail.com)
 
 <br>
 
 ## Career
 
-**2025.05 – 재직중 | ㈜코드오브네이처**  
-AI 모델 개발·DB 운영·웹 서비스 구현·서버 운영 수행
+**2025.05 – Present | ㈜코드오브네이처**  
+Developed AI models, managed databases, built web services, and maintained servers.
 
 **2024.10 – 2024.12 | ㈜에이더**  
-시장조사 및 고객 데이터 수집·분석을 통한 신규 제품 기획 의사결정 지원
+Conducted market research and analyzed customer data to support data-driven product planning.
 
 **2023.09 – 2024.03 | 엔코아 플레이데이터**  
-SQL·Python·Linux·Hadoop 기반 데이터 처리 및 파이프라인 구축 실습
+Completed hands-on training in data processing and pipeline development using SQL, Python, Linux, and Hadoop
 
 <br>
 
