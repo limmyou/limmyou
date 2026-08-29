@@ -2,9 +2,10 @@
 ## About ME
 
 - 🙋🏻‍♀️ Heerim Kang
+- 🤖 AI Model Development
+- ⚙️ Data Engineering
 - 🗄️ Database Administration
 - ⚒️ Data Analysis & Processing
-- 🤖 AI Model Development
 - 📁 Portfolio: [포트폴리오](https://github.com/limmyou/Portfolio)
 - ✉️ Email: [heelim0624@gmail.com](mailto:heelim0624@gmail.com)
 
@@ -12,7 +13,7 @@
 
 ## Career
 
-**2025.05 – Present | ㈜코드오브네이처**  
+**2025.05 – 2026.08 | ㈜코드오브네이처**  
 Developed AI models, managed databases, built web services, and maintained servers.
 
 **2024.10 – 2024.12 | ㈜에이더**  
